@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on VeracityDev
-- 🌱 I’m currently learning SLIIT
-- 💬 Ask me about ...
 - 📫 How to reach me: padulaguruge@gmail.com
 
 
